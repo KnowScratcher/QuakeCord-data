@@ -1,2 +1,3 @@
-# QuakeCord-data
-The opendata for quakecord
+# QuakeCord data
+This is the open data for [Quakecord](https://github.com/KnowScratcher/QuakeCord)
+
