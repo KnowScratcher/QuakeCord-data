@@ -15,5 +15,6 @@ This is the open data for [Quakecord](https://github.com/KnowScratcher/QuakeCord
 
 # Notes
 - The data is stored in a file with a duration of an hour
-- The path will be data/[station]/[year]/[month]/[day]/[hour].csv
+- The path will be `data/[station]/[year]/[month]/[day]/[hour].csv`
 - The time used is UTC.
+
