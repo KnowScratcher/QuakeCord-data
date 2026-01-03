@@ -6,8 +6,6 @@ This is the open data for [Quakecord](https://github.com/KnowScratcher/QuakeCord
 - The data is licensed under Creative Commons Attribution 4.0 International. Forr full detail, please view [this file](./LICENSE-DATA)
 
 # Location of station
-> [!NOTE]
-> The coordinate is not the actual
 
 |id|name|location|
 |---|---|---|
@@ -18,4 +16,5 @@ This is the open data for [Quakecord](https://github.com/KnowScratcher/QuakeCord
 - The path will be `data/[station]/[year]/[month]/[day]/[hour].csv`
 - The time used is UTC.
 - Data rate is 25Hz before 2025/12 and 100Hz during and after 2025/12.
+
 
